@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "E:\\K3\\ICECream\\ICECream\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ICECream.bundle.scp.css",
-      "PackagePath": "staticwebassets\\ICECream.bundle.scp.css"
-    },
-    {
       "Id": "E:\\K3\\ICECream\\ICECream\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

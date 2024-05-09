@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hlQfVjXqj7aDdp2AqLVYMBX0UUmBjvA3EBq6/d/Ihvs=",
+  "Hash": "+5+1IYDKng1NtymlqdnFfkrd9EMoOIbaSa+VJDU5GRM=",
   "Source": "ICECream",
   "BasePath": "_content/ICECream",
   "Mode": "Default",
@@ -16,44 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "E:\\K3\\ICECream\\ICECream\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ICECream.styles.css",
-      "SourceId": "ICECream",
-      "SourceType": "Computed",
-      "ContentRoot": "E:\\K3\\ICECream\\ICECream\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/ICECream",
-      "RelativePath": "ICECream.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\K3\\ICECream\\ICECream\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ICECream.styles.css"
-    },
-    {
-      "Identity": "E:\\K3\\ICECream\\ICECream\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ICECream.bundle.scp.css",
-      "SourceId": "ICECream",
-      "SourceType": "Computed",
-      "ContentRoot": "E:\\K3\\ICECream\\ICECream\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/ICECream",
-      "RelativePath": "ICECream.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\K3\\ICECream\\ICECream\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ICECream.bundle.scp.css"
-    },
     {
       "Identity": "E:\\K3\\ICECream\\ICECream\\wwwroot\\css\\site.css",
       "SourceId": "ICECream",

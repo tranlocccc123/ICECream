@@ -20,11 +20,10 @@ E:\K3\ICECream\ICECream\obj\Debug\net8.0\staticwebassets\msbuild.build.ICECream.
 E:\K3\ICECream\ICECream\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ICECream.props
 E:\K3\ICECream\ICECream\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ICECream.props
 E:\K3\ICECream\ICECream\obj\Debug\net8.0\staticwebassets.pack.json
-E:\K3\ICECream\ICECream\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 E:\K3\ICECream\ICECream\obj\Debug\net8.0\scopedcss\bundle\ICECream.styles.css
-E:\K3\ICECream\ICECream\obj\Debug\net8.0\scopedcss\projectbundle\ICECream.bundle.scp.css
 E:\K3\ICECream\ICECream\obj\Debug\net8.0\ICECream.dll
 E:\K3\ICECream\ICECream\obj\Debug\net8.0\refint\ICECream.dll
 E:\K3\ICECream\ICECream\obj\Debug\net8.0\ICECream.pdb
 E:\K3\ICECream\ICECream\obj\Debug\net8.0\ICECream.genruntimeconfig.cache
 E:\K3\ICECream\ICECream\obj\Debug\net8.0\ref\ICECream.dll
+E:\K3\ICECream\ICECream\obj\Debug\net8.0\ICECream.sourcelink.json

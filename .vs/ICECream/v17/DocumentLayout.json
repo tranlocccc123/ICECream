@@ -3,6 +3,13 @@
   "WorkspaceRootPath": "E:\\K3\\ICECream\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4E21F429-7C38-4ECF-BB9A-4BBBB6D67803}|ICECream\\ICECream.csproj|e:\\k3\\icecream\\icecream\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E21F429-7C38-4ECF-BB9A-4BBBB6D67803}|ICECream\\ICECream.csproj|solutionrelative:icecream\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\K3K3\\ice-cream-shop-website-template\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4E21F429-7C38-4ECF-BB9A-4BBBB6D67803}|ICECream\\ICECream.csproj|e:\\k3\\icecream\\icecream\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4E21F429-7C38-4ECF-BB9A-4BBBB6D67803}|ICECream\\ICECream.csproj|solutionrelative:icecream\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -27,19 +34,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\K3\\ICECream\\ICECream\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ICECream\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\K3\\ICECream\\ICECream\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ICECream\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAqwJ0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T09:33:37.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\K3K3\\ice-cream-shop-website-template\\index.html",
+              "RelativeDocumentMoniker": "..\\..\\K3K3\\ice-cream-shop-website-template\\index.html",
+              "ToolTip": "E:\\K3K3\\ice-cream-shop-website-template\\index.html",
+              "RelativeToolTip": "..\\..\\K3K3\\ice-cream-shop-website-template\\index.html",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAAAGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-09T09:29:01.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\K3\\ICECream\\ICECream\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "ICECream\\Views\\Product\\Index.cshtml",
               "ToolTip": "E:\\K3\\ICECream\\ICECream\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "ICECream\\Views\\Product\\Index.cshtml",
-              "ViewState": "AQIAAGoAAAAAAAAAAAAawHMAAABNAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-08T16:49:33.687Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\K3\\ICECream\\ICECream\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ICECream\\Controllers\\HomeController.cs",
@@ -47,8 +80,7 @@
               "RelativeToolTip": "ICECream\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAA1wBUAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T16:15:52.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T16:15:52.091Z"
             }
           ]
         },
